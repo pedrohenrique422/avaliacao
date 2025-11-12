@@ -1,0 +1,39 @@
+
+
+header{
+    display: flex;
+    background-color: rgb(73, 204, 105);    
+    border: 10px solid rgb(97, 161, 107);
+    justify-content: center;
+    font-size: 20px;
+    align-items: center;
+    margin: auto;
+    padding: auto;  
+}
+
+.linha{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    justify-content: center;
+    display: flex;
+}
+
+img{
+    border: 10px solid rgb(0, 63, 19);
+    width: 150px;   height: 150px;
+    margin-right: 20px;
+    justify-content: center;
+    align-self:center;  
+}
+
+.texto-baixo{
+    border: 10px solid rgb(0, 63, 19);
+    display: flex;
+    margin: 20px;
+    text-align: center;
+}
+
+.conteudotexto{
+    margin: 20px;
+    font-size: 23px;
+}

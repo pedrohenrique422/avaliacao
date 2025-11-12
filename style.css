@@ -1,0 +1,136 @@
+#container {
+    border: 10px solid rgb(97, 161, 107);
+    display: flex;
+}
+
+.topo1 {
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+
+.quadradodotxt {
+    font-size: 20px;
+    background-color: rgb(73, 204, 105);
+    width: 100%;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.quadradoimg {
+    width: 18%;
+    height: 300px;
+}
+
+img {
+    height: 300px;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    align-items: center;
+}
+
+.topo2{
+    border: 10px solid rgb(59, 141, 72);
+    margin: 20px;
+    height: 50px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}
+
+.conteudo {
+    margin-top: 20px;
+    border: 10px solid rgb(59, 141, 72);
+    height: 15%;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.titleconteudo{
+    font-size: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+.tema{
+    font-size: 17px;
+    margin-right: 120px;
+    border: 5px solid rgb(0, 63, 19);
+    background-color: rgb(59, 141, 72);
+}
+
+.linha {
+    margin-top: 20px;
+    height: 15%;
+    margin-bottom: 30px;
+    display: flex;
+   
+}
+
+h1{
+    text-align: center;
+    align-items: center;
+}
+
+.info {
+    font-size: 23px;
+    justify-content: center;
+    align-content: end;
+    align-self: center;
+    margin: 40px;
+}
+
+.imagem1{
+    border: 10px solid rgb(0, 63, 19);
+    width: 15%;
+    margin: 20px;
+}
+
+.texto-lado1{
+    border: 10px solid rgb(0, 63, 19);
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 20px;
+}
+
+.imagem2{
+    border: 10px solid rgb(0, 63, 19);
+    width: 15%;
+    margin: 20px;
+}
+
+.texto-lado2{
+    border: 10px solid rgb(0, 63, 19);
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 20px;
+}
+
+.imagem3{
+    border: 10px solid rgb(0, 63, 19);
+    width: 15%;
+    margin: 20px;
+}
+
+.texto-lado3{
+    border: 10px solid rgb(0, 63, 19);
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 20px;
+}
+
+.conteudotema{
+    font-size: 27px;
+    margin: 30px
+}
